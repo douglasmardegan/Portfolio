@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  border: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -14,6 +16,7 @@ body {
   grid-template-columns: repeat(15, auto);
   grid-template-rows: repeat(10, auto);
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .titleSite {
