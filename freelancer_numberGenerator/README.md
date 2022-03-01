@@ -5,4 +5,10 @@
 <img src="https://img.shields.io/badge/Status-finished-green)"/>
 </p>
 
+<h2 align="left">Descrição</h2>
+<h3 align="left">Versão em português</h3>
+<p text-align="justify"</p>
+
+<h3 align="left">English version</h3>
+<p text-align="justify"</p>
 
