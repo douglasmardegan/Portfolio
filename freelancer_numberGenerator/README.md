@@ -1,8 +1,9 @@
 <h1 align="center"> Proj. Freelancer - Simples gerador de números aleatórios </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Version-2.0-green)"/>
-<img src="https://img.shields.io/badge/Status-finished-green)"/>
+<img src="https://img.shields.io/badge/Version-2.0-green"/>
+<img src="https://img.shields.io/badge/Status-finished-green"/>
+<img src="https://img.shields.io/badge/Difficulty-beginner--intermediary-blue"/>
 </p>
 
 <h2 align="left">Descrição do projeto</h2>
