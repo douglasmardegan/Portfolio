@@ -18,8 +18,8 @@ This project was created in order to simulate the resolution of a real customer 
 Using basically HTML, CSS and JavaScript, a simple version of a web application was created that has the purpose of generating numbers from 0 to 99 in a grid of 10 lines and 15 columns.</p>
 
 <h2 align="left">Acesso à aplicação web e ao projeto</h2>
-<p text-align="justify">
-Para ter acesso a aplicação web, clique <a href="https://douglasmardegan.github.io/Portfolio/freelancer_numberGenerator/">aqui</a></p>
-<p text-align="justify">
-Para ter acesso ao repositório no GitHub, clique <a href="https://github.com/douglasmardegan/Portfolio/tree/main/freelancer_numberGenerator">aqui</a></p>
+<ul>
+  <li text-align="justify">Para ter acesso a aplicação web, clique <a href="https://douglasmardegan.github.io/Portfolio/freelancer_numberGenerator/">aqui</a></li>
+  <li text-align="justify">Para ter acesso ao repositório no GitHub, clique <a href="https://github.com/douglasmardegan/Portfolio/tree/main/freelancer_numberGenerator">aqui</a></li>
+</ul>
 
