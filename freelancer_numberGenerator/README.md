@@ -1,4 +1,4 @@
 <h1 align="center"> Proj. Freelancer - Simples gerador de números aleatórios </h1>
 
-https://img.shields.io/badge/version-1.0-green
-https://img.shields.io/badge/status-finished-green
+![Badge version project](https://img.shields.io/badge/version-1.0-green)
+![Badge status project](https://img.shields.io/badge/status-finished-green)
